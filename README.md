@@ -1,3 +1,5 @@
 # grid-practice
 
-my-first-site только на гридах
+responsive grid UI kit
+
+Mobile-first adaptive
